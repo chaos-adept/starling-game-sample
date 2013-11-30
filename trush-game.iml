@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="Flex.Build.Configuration">
+    <option name="TARGET_PLAYER_VERSION" value="10.0" />
+    <option name="VERSION" value="3" />
+  </component>
+  <component name="FlexBuildConfigurationManager" active="trush-game">
+    <configurations>
+      <configuration name="trush-game" target-platform="Mobile" pure-as="true" main-class="Main" output-file="trush-game.swf" output-folder="$MODULE_DIR$/bin-debug">
+        <dependencies target-player="10.0">
+          <entries>
+            <entry library-id="starling.swc">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="default_flex_sdk" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/src/main/actionscript/trush-game.xml" package-file-name="trush-game">
+          <AirSigningOptions keystore-path="$MODULE_DIR$/trush-game.p12" use-temp-certificate="false" />
+        </packaging-android>
+        <packaging-ios use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/src/main/actionscript/trush-game.xml" package-file-name="trush-game" />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin-debug" />
+    <output-test url="file://$MODULE_DIR$/bin-debug" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/actionscript" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/actionscript" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" isTestSource="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="default_flex_sdk" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="starling.swc" type="flex">
+        <properties id="starling.swc" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/starling.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

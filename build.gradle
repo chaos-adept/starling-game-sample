@@ -1,0 +1,33 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+	
+    dependencies {
+        classpath group: 'org.gradlefx', name: 'gradlefx', version: '0.7.1'
+    }
+	
+}
+
+apply plugin: 'gradlefx'
+apply plugin: 'ideafx'
+apply plugin: 'flashbuilder'
+
+ext.ideaFxModuleSdkName = 'flex_sdk_4.6.0'
+
+flexHome = System.getenv()['FLEX_HOME']
+
+type = 'mobile'
+
+platform = 'android'
+
+frameworkLinkage = 'none'
+
+dependencies {
+	merged fileTree(dir: "${projectDir}/libs", include: '*.swc')
+}
+
+
+air {
+    storepass 'bi-lingvo-games'
+}
