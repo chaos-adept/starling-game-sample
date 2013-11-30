@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5fbc3c6-c421-4c0a-90f4-7e615ecf1eca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/asset/graphics/train/86b34fbcd717.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/sounds/bgGame.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/graphics/bgLayer1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/graphics/bgWelcome.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/sounds/bgWelcome.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/sounds/coffee.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/sounds/eat.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/1.8/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/asset/graphics/background/ground.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/asset/graphics/background/ground_origin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/asset/graphics/background/ground_processed.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/asset/graphics/background/ground_processed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/asset/graphics/background/guide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/sounds/hit.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/sounds/hurt.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/sounds/lose.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/sounds/mushroom.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/graphics/myGlyphs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/graphics/mySpritesheet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/asset/graphics/train/processed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/starling.swc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/1.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/particles/texture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trush-game.p12" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/graphics/welcome_aboutButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/graphics/welcome_hero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/graphics/welcome_playButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/graphics/welcome_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/actionscript/asset/AssetStorage.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/actionscript/utils/Cnst.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/actionscript/Game.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/actionscript/graphics/GroundBackground.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/actionscript/Main.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/actionscript/StarlingStartup.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/actionscript/graphics/Train.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/1.8/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/1.8/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/fonts/embedded/fonts.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/graphics/myGlyphs.fnt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/graphics/mySpritesheet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/particles/particleCoffee.pex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/samples/particles/particleMushroom.pex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startling-trush-game.ipr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startling-trush-game.iws" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trush-game.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/actionscript/trush-game.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/warning.txt" />
-    </list>
+    <list default="true" id="a5fbc3c6-c421-4c0a-90f4-7e615ecf1eca" name="Default" comment="" />
     <ignored path="startling-trush-game.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/fragment.js2" changelist="a5fbc3c6-c421-4c0a-90f4-7e615ecf1eca" time="1385827458128" ignored="false" />
@@ -126,7 +77,7 @@
       <file leaf-file-name="StarlingStartup.as" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/actionscript/StarlingStartup.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="145" selection-start="771" selection-end="771" vertical-scroll-proportion="0.67287785">
+            <state line="30" column="145" selection-start="771" selection-end="771" vertical-scroll-proportion="1.1284722">
               <folding>
                 <element signature="e#11#39#0" expanded="true" />
               </folding>
@@ -656,7 +607,7 @@
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32938075" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.58629775" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -674,7 +625,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21879022" sideWeight="0.67061925" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21879022" sideWeight="0.41370225" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -840,7 +791,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/actionscript/StarlingStartup.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="145" selection-start="771" selection-end="771" vertical-scroll-proportion="0.67287785">
+        <state line="30" column="145" selection-start="771" selection-end="771" vertical-scroll-proportion="1.1284722">
           <folding>
             <element signature="e#11#39#0" expanded="true" />
           </folding>
